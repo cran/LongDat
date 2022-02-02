@@ -2,7 +2,7 @@ Package: LongDat
 Type: Package
 Title: A Tool for 'Confounder'-Sensitive Longitudinal Analysis on
         'Multi-omics' Data
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(person(given = "Chia-Yu",
            family = "Chen",
            role = c("aut", "cre"),
@@ -32,9 +32,9 @@ Imports: lme4, reshape2, glmmTMB, emmeans, bestNormalize, MASS,
 Suggests: rmarkdown, knitr, tidyverse, kableExtra
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-01-18 11:33:05 UTC; Jessica
+Packaged: 2022-02-02 12:59:49 UTC; Jessica
 Author: Chia-Yu Chen [aut, cre] (<https://orcid.org/0000-0003-1765-7132>),
   Sofia Forslund [ctb] (<https://orcid.org/0000-0003-4285-6993>)
 Maintainer: Chia-Yu Chen <Chia-Yu.Chen@mdc-berlin.de>
 Repository: CRAN
-Date/Publication: 2022-01-18 20:42:44 UTC
+Date/Publication: 2022-02-02 13:40:07 UTC
