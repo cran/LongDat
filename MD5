@@ -1,6 +1,6 @@
-d337cf07dc2b9d049a4effd530ae5f47 *DESCRIPTION
+be5201008ab23c28e7252c8b3289c48e *DESCRIPTION
 14722b89d80ae26f19923d31380eb04e *NAMESPACE
-7806628ca5bebcf65ddbed6d410c1ab9 *NEWS.md
+c40a5433b852bcc862a7e5e85b1b663f *NEWS.md
 027a0f32a226051687390d74c1370478 *R/ConModelTest_cont.R
 40d081dac40b8eb990f45844d461dabe *R/ConModelTest_disc.R
 e80a9a788239b019a8d9c32190218d2e *R/LongDat_cont_feature_table.R
@@ -15,7 +15,7 @@ d2b8005aaf14c92aa0156055acf2907f *R/cliff_cal.R
 6b643be1e3f8a5cbe9cdc9972662e4b9 *R/correlation_posthoc.R
 9020d5b6ac3a4f720e0dff8267475c51 *R/cuneiform_plot.R
 7e015d95beede5ff2ba937bfff71a055 *R/data_preprocess.R
-4c4db6eecc0992a030bc0a369f2a6097 *R/factor_p_cal.R
+82b09970734255146843913fc12421c1 *R/factor_p_cal.R
 cbe270a2faab26a24eede90a144dcd1a *R/final_result_summarize_cont.R
 3d4f17d7405d06b40739da7fd1c087f3 *R/final_result_summarize_disc.R
 1032518824c7229291dd0e18e1898d78 *R/fix_name_fun.R
