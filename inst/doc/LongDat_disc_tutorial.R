@@ -67,9 +67,9 @@ result_table %>%
   kableExtra::scroll_box(width = "700px")
 
 ## ----message=FALSE, tidy=TRUE, tidy.opts=list(width.cutoff=80)----------------
-# The second dataframe in the list is the confounder table
-confound_table <- test_disc[[2]]
-confound_table %>%
+# The second dataframe in the list is the covariate table
+covariate_table <- test_disc[[2]]
+covariate_table %>%
   kableExtra::kbl() %>%
   kableExtra::kable_paper(bootstrap_options = "responsive", font_size = 12, position = "center") %>% 
   kableExtra::scroll_box(width = "700px")
