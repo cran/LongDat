@@ -10,7 +10,6 @@ knitr::opts_chunk$set(
 ## ----message=FALSE------------------------------------------------------------
 # Load the packages
 library(LongDat)
-library(tidyverse)
 library(kableExtra)
 
 ## ----message=FALSE, tidy=TRUE, tidy.opts=list(width.cutoff=80)----------------
