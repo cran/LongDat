@@ -1,6 +1,6 @@
-36ac440c73ced5d7ac4531e50c5a2080 *DESCRIPTION
+e70fe04354b4e8deeda49ee790d4cde3 *DESCRIPTION
 14722b89d80ae26f19923d31380eb04e *NAMESPACE
-13669cb57cee59f58ddf419ab3ed613c *NEWS.md
+cd593009c8c750bc71687a2c01f6b543 *NEWS.md
 24c97ffff8016b7908d16a1ab83bbcfa *R/ConModelTest_cont.R
 0f79ddc85e8c15e935771a22716c462f *R/ConModelTest_disc.R
 e80a9a788239b019a8d9c32190218d2e *R/LongDat_cont_feature_table.R
@@ -37,14 +37,14 @@ d2ded51643518022d63fc6ad1846274e *data/LongDat_cont_feature_table.RData
 a85c3f25c3bc6f2f4879748054e2ae01 *data/LongDat_disc_feature_table.RData
 6fcdd240ba3e52a26c56b0034ab8027b *data/LongDat_disc_master_table.RData
 d408460471af840a1243ae832ab4d274 *data/LongDat_disc_metadata_table.RData
-79f63beac82de2c27d63a008794ec7f4 *inst/CITATION
+45edfa9953e2bbe0adfae5fc892b024b *inst/CITATION
 aebe449088525e646d2fd39a4dd956e8 *inst/WORDLIST
 402a091fab0fae91288ac39afb3e484a *inst/doc/LongDat_cont_tutorial.R
 8828fe823b5f037943f76e84bc28142e *inst/doc/LongDat_cont_tutorial.Rmd
-2b2035cb91b716d1f53f3db9eeb40daf *inst/doc/LongDat_cont_tutorial.html
+496a5d306cd169498062fece4e03d2f0 *inst/doc/LongDat_cont_tutorial.html
 dc73ef806ed2fe3adcfa152ec5c0f149 *inst/doc/LongDat_disc_tutorial.R
 9b53559944ffe2b84b761bf3a0ce3803 *inst/doc/LongDat_disc_tutorial.Rmd
-ccd1a1e1f42ccb9bd6a32b798548967a *inst/doc/LongDat_disc_tutorial.html
+c18b1a51276968341c69f93ba97f54bd *inst/doc/LongDat_disc_tutorial.html
 3d1701f6eaf1cf6cf22669c0a6df3828 *man/ConModelTest_cont.Rd
 d5710ba76468a8ce6f05810e6507679c *man/ConModelTest_disc.Rd
 5a1d66f82716780ad9ebad3677dd85c9 *man/LongDat_cont_feature_table.Rd

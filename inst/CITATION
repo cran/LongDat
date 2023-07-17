@@ -7,10 +7,11 @@ bibentry(
                person("Ulrike ", "Löber"),
                person("Sofia", "Forslund")),
   year     = "2023",
-  journal = "Journal to be added",
-  number = "Number to be added",
-  pages = "Pages to be added",
-  volume = "Volume to be added",
-  textVersion = paste("Chen et al., (2023).", "LongDat: an R package for covariate-sensitive longitudinal analysis of high-dimensional data", "."
-  )
+  journal = "Bioinformatics Advances",
+  number = "1",
+  pages = "vbad063",
+  volume = "3",
+  doi = "10.1093/bioadv/vbad063",
+  url = "https://doi.org/10.1093/bioadv/vbad063",
+  textVersion = paste("Chen et al., LongDat: an R package for covariate-sensitive longitudinal analysis of high-dimensional data, Bioinformatics Advances, Volume 3, Issue 1, 2023, vbad063, https://doi.org/10.1093/bioadv/vbad063")
 )
