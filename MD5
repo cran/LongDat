@@ -1,6 +1,6 @@
-e70fe04354b4e8deeda49ee790d4cde3 *DESCRIPTION
+f5286798bac65b9f746ed1604f973c1c *DESCRIPTION
 14722b89d80ae26f19923d31380eb04e *NAMESPACE
-cd593009c8c750bc71687a2c01f6b543 *NEWS.md
+cef7ed287a3df3049768b83757c2c31d *NEWS.md
 24c97ffff8016b7908d16a1ab83bbcfa *R/ConModelTest_cont.R
 0f79ddc85e8c15e935771a22716c462f *R/ConModelTest_disc.R
 e80a9a788239b019a8d9c32190218d2e *R/LongDat_cont_feature_table.R
@@ -21,7 +21,7 @@ e1950b1dd0fbd314a139e695749dd2a2 *R/final_result_summarize_cont.R
 fab5c10a89fabd96519548c5b4363e41 *R/fix_name_fun.R
 745ed8f24ce9c0403aa25b3f82e5f5cf *R/longdat_cont.R
 bf25e6acf5a3990890ff32279c93633a *R/longdat_disc.R
-376363aa8830ca172f653cc71ee58ab4 *R/make_master_table.R
+1314ea58d39fe8c0b10d1e34b73ca982 *R/make_master_table.R
 a67ced0aa27921611f3ef73de31b2f4d *R/random_neg_ctrl_cont.R
 c24fc9bba49ef2165c5a0b6bf1e7aa37 *R/random_neg_ctrl_disc.R
 53eaf9e0e70ce1c702a40ded46eed9c0 *R/rm_sparse_cont.R
@@ -29,7 +29,7 @@ c24fc9bba49ef2165c5a0b6bf1e7aa37 *R/random_neg_ctrl_disc.R
 138431666a5de18c68701e4e1a24dfa8 *R/theta_plot.R
 5cd0e3700a1385b3edf21c90f78095dc *R/unlist_table.R
 ad5669f01c7cabfa799f0e983340228a *R/wilcox_posthoc.R
-0d94a54649c803edc99273da3137127b *README.md
+8cb9f316ee9dc883b7b22a677cab387e *README.md
 36eac4cc07947a737ca102a2b7b8fece *build/vignette.rds
 d2ded51643518022d63fc6ad1846274e *data/LongDat_cont_feature_table.RData
 461e73d53f8b108f115e9c450b4145af *data/LongDat_cont_master_table.RData
@@ -41,10 +41,10 @@ d408460471af840a1243ae832ab4d274 *data/LongDat_disc_metadata_table.RData
 aebe449088525e646d2fd39a4dd956e8 *inst/WORDLIST
 402a091fab0fae91288ac39afb3e484a *inst/doc/LongDat_cont_tutorial.R
 8828fe823b5f037943f76e84bc28142e *inst/doc/LongDat_cont_tutorial.Rmd
-496a5d306cd169498062fece4e03d2f0 *inst/doc/LongDat_cont_tutorial.html
+2a2b659def99cc62441147c5892543e7 *inst/doc/LongDat_cont_tutorial.html
 dc73ef806ed2fe3adcfa152ec5c0f149 *inst/doc/LongDat_disc_tutorial.R
 9b53559944ffe2b84b761bf3a0ce3803 *inst/doc/LongDat_disc_tutorial.Rmd
-c18b1a51276968341c69f93ba97f54bd *inst/doc/LongDat_disc_tutorial.html
+1c7c2f5adb5894caf805e35d2a5dc2eb *inst/doc/LongDat_disc_tutorial.html
 3d1701f6eaf1cf6cf22669c0a6df3828 *man/ConModelTest_cont.Rd
 d5710ba76468a8ce6f05810e6507679c *man/ConModelTest_disc.Rd
 5a1d66f82716780ad9ebad3677dd85c9 *man/LongDat_cont_feature_table.Rd
